@@ -48,5 +48,4 @@ codegen-units = 1
 [features]
 default = []
 generate_bindings=["bindgen"]
-link_vulkan=[]
 recording=[]
